@@ -20,7 +20,7 @@ msgstr ""
 
 #: templates/archives.html:6
 msgid "Archives"
-msgstr ""
+msgstr "Archivi"
 
 #: templates/article.html:34 templates/page.html:22
 msgid "Image source:"
@@ -28,116 +28,116 @@ msgstr ""
 
 #: templates/article.html:48
 msgid "was published on"
-msgstr ""
+msgstr "pubblicato il"
 
 #: templates/article.html:49
 msgid "revised:"
-msgstr ""
+msgstr "modificato il :"
 
 #: templates/article.html:58
 msgid "in"
-msgstr ""
+msgstr "in"
 
 #: templates/article.html:87
 msgid "Continue reading"
-msgstr ""
+msgstr "Continua lettura"
 
 #: templates/article.html:96
 msgid "Published on"
-msgstr ""
+msgstr "Pubblicato il"
 
 #: templates/author.html:4
 #, python-format
 msgid "Posts by %(author)s"
-msgstr ""
+msgstr "Articolo scritto da %(author)s"
 
 #: templates/categories.html:6
 msgid "Categories"
-msgstr ""
+msgstr "Categorie"
 
 #: templates/category.html:12
 #, python-format
 msgid "Posts in %(category)s category"
-msgstr ""
+msgstr "Articoli della categoria %(category)s"
 
 #: templates/tag.html:11
 #, python-format
 msgid "Posts tagged with %(tag)s"
-msgstr ""
+msgstr "Post etichettati con %(tag)s"
 
 #: templates/tags.html:6
 msgid "Tags"
-msgstr ""
+msgstr "Etichette"
 
 #: templates/includes/cc-license.html:59
 msgid "is"
-msgstr ""
+msgstr "è"
 
 #: templates/includes/cc-license.html:61
 msgid "Content"
-msgstr ""
+msgstr "contenuto"
 
 #: templates/includes/cc-license.html:63
 msgid "licensed under a"
-msgstr ""
+msgstr "è presentato sotto licenza"
 
 #: templates/includes/cc-license.html:63
 msgid "except where indicated otherwise"
-msgstr ""
+msgstr "tranne dove indicato diversamente"
 
 #: templates/includes/footer.html:1
 msgid "Powered by"
-msgstr ""
+msgstr "Con tecnologia"
 
 #: templates/includes/footer.html:1
 msgid "using"
-msgstr ""
+msgstr "e basato su"
 
 #: templates/includes/navigation.html:2
 msgid "Open Menu"
-msgstr ""
+msgstr "Apri il menu"
 
 #: templates/includes/navigation.html:4
 msgid "Home"
-msgstr ""
+msgstr "Inizio"
 
 #: templates/includes/navigation.html:6
 msgid "About"
-msgstr ""
+msgstr "A proposito"
 
 #: templates/includes/navigation.html:14
 msgid "Learn More"
-msgstr ""
+msgstr "Per sapere di più"
 
 #: templates/includes/navigation.html:18
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: templates/includes/navigation.html:29
 msgid "Posts"
-msgstr ""
+msgstr "Articoli"
 
 #: templates/includes/navigation.html:31
 msgid "All Tags"
-msgstr ""
+msgstr "Tutte le Etichette"
 
 #: templates/includes/navigation.html:32
 msgid "All Categories"
-msgstr ""
+msgstr "Tutte le Categorie"
 
 #: templates/includes/pagination.html:5 templates/includes/pagination.html:7
 msgid "Previous page"
-msgstr ""
+msgstr "Pagina precedente"
 
 #: templates/includes/pagination.html:5 templates/includes/pagination.html:7
 msgid "Previous"
-msgstr ""
+msgstr "Precedente"
 
 #: templates/includes/pagination.html:25
 msgid "Next page"
-msgstr ""
+msgstr "Pagina successiva"
 
 #: templates/includes/pagination.html:25
 msgid "Next"
-msgstr ""
+msgstr "Successiva"
 
